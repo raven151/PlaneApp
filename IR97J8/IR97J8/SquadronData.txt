@@ -1,0 +1,4 @@
+﻿I Jäger-Batallion;Messerschmitt Bf 109;G-6;3
+I Jäger-Batallion;Heinkel He 111;H-6;1
+15. Pionier-Kompanie;Messerschmitt Bf 109;G-6;9
+15. Pionier-Kompanie;Focke-Wulf Fw 190;A-8;10

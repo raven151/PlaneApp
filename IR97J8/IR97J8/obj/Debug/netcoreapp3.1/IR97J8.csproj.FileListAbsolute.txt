@@ -1,0 +1,17 @@
+D:\tanulmanyok\csharp\beadando\IR97J8\IR97J8\bin\Debug\netcoreapp3.1\IR97J8.exe
+D:\tanulmanyok\csharp\beadando\IR97J8\IR97J8\bin\Debug\netcoreapp3.1\IR97J8.deps.json
+D:\tanulmanyok\csharp\beadando\IR97J8\IR97J8\bin\Debug\netcoreapp3.1\IR97J8.runtimeconfig.json
+D:\tanulmanyok\csharp\beadando\IR97J8\IR97J8\bin\Debug\netcoreapp3.1\IR97J8.runtimeconfig.dev.json
+D:\tanulmanyok\csharp\beadando\IR97J8\IR97J8\bin\Debug\netcoreapp3.1\IR97J8.dll
+D:\tanulmanyok\csharp\beadando\IR97J8\IR97J8\bin\Debug\netcoreapp3.1\IR97J8.pdb
+D:\tanulmanyok\csharp\beadando\IR97J8\IR97J8\obj\Debug\netcoreapp3.1\IR97J8.csprojAssemblyReference.cache
+D:\tanulmanyok\csharp\beadando\IR97J8\IR97J8\obj\Debug\netcoreapp3.1\IR97J8.csproj.GenerateResource.cache
+D:\tanulmanyok\csharp\beadando\IR97J8\IR97J8\obj\Debug\netcoreapp3.1\IR97J8.AssemblyInfoInputs.cache
+D:\tanulmanyok\csharp\beadando\IR97J8\IR97J8\obj\Debug\netcoreapp3.1\IR97J8.AssemblyInfo.cs
+D:\tanulmanyok\csharp\beadando\IR97J8\IR97J8\obj\Debug\netcoreapp3.1\IR97J8.csproj.CoreCompileInputs.cache
+D:\tanulmanyok\csharp\beadando\IR97J8\IR97J8\obj\Debug\netcoreapp3.1\IR97J8.dll
+D:\tanulmanyok\csharp\beadando\IR97J8\IR97J8\obj\Debug\netcoreapp3.1\IR97J8.pdb
+D:\tanulmanyok\csharp\beadando\IR97J8\IR97J8\obj\Debug\netcoreapp3.1\IR97J8.genruntimeconfig.cache
+D:\tanulmanyok\csharp\beadando\IR97J8\IR97J8\obj\Debug\netcoreapp3.1\IR97J8.AddForm.resources
+D:\tanulmanyok\csharp\beadando\IR97J8\IR97J8\obj\Debug\netcoreapp3.1\IR97J8.ListForm.resources
+D:\tanulmanyok\csharp\beadando\IR97J8\IR97J8\obj\Debug\netcoreapp3.1\IR97J8.AddSquadForm.resources
